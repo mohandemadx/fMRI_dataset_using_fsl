@@ -1,1 +1,1 @@
-# fMRI_dataset_using_fsl
+# An overview on fMRI concepts using FSL
